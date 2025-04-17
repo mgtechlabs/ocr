@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="b-p4U6EYxs2qN4ZGOnnN-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px; color: rgb(0, 0, 102);&quot;&gt;Azure Active Directory&lt;/font&gt;&lt;/b&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" vertex="1" parent="1">
-          <mxGeometry x="30" y="260" width="153.13" height="140" as="geometry" />
+          <mxGeometry x="30" y="336" width="153.13" height="140" as="geometry" />
         </mxCell>
         <mxCell id="b-p4U6EYxs2qN4ZGOnnN-2" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 102);&quot;&gt;CARES_Admins&lt;/font&gt;&lt;/b&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Groups.svg;" vertex="1" parent="1">
           <mxGeometry x="340" y="180" width="68" height="56.00000000000001" as="geometry" />
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="b-p4U6EYxs2qN4ZGOnnN-9" value="&lt;font color=&quot;#000066&quot;&gt;&lt;b&gt;Paralegals&lt;/b&gt;&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Groups.svg;" vertex="1" parent="1">
           <mxGeometry x="340" y="670" width="68" height="56.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="b-p4U6EYxs2qN4ZGOnnN-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.059;entryY=0.732;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="b-p4U6EYxs2qN4ZGOnnN-1" target="b-p4U6EYxs2qN4ZGOnnN-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
